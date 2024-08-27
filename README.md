@@ -4,7 +4,7 @@
 <h2>Files</h2>
 <ul>
     <li><strong>WalmartSalesAnalysis.pbix:</strong> The Power BI report file.</li>
-    <li><strong>Data Source:</strong> Access the data file <strong>Plant_DTS.xls</strong>.</li>
+    <li><strong>Data Source:</strong> Access the data file <strong>walmart - product.csv</strong>.</li>
 </ul>
 
 <h2>Getting Started</h2>
